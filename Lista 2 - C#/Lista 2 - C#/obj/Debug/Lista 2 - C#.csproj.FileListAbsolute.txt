@@ -1,0 +1,7 @@
+C:\Users\43479555888\Desktop\C#\Lista 2 - C#\Lista 2 - C#\obj\Debug\Lista 2 - C#.csproj.AssemblyReference.cache
+C:\Users\43479555888\Desktop\C#\Lista 2 - C#\Lista 2 - C#\obj\Debug\Lista 2 - C#.csproj.CoreCompileInputs.cache
+C:\Users\43479555888\Desktop\C#\Lista 2 - C#\Lista 2 - C#\bin\Debug\Lista 2 - C#.exe.config
+C:\Users\43479555888\Desktop\C#\Lista 2 - C#\Lista 2 - C#\bin\Debug\Lista 2 - C#.exe
+C:\Users\43479555888\Desktop\C#\Lista 2 - C#\Lista 2 - C#\bin\Debug\Lista 2 - C#.pdb
+C:\Users\43479555888\Desktop\C#\Lista 2 - C#\Lista 2 - C#\obj\Debug\Lista 2 - C#.exe
+C:\Users\43479555888\Desktop\C#\Lista 2 - C#\Lista 2 - C#\obj\Debug\Lista 2 - C#.pdb
